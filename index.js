@@ -14,3 +14,5 @@ function binary(num) {              //input number value
 
 binary(10);
 
+//Refrence 
+// Contributors, M. (2020, January 15). Number.prototype.toString(). Retrieved April 6, 2020, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
